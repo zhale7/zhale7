@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jala, from Azerbaijan.
-- 👀 I’m interested in programming languages, like C#, JS, SQL.
+- 👀 I’m interested in programming languages, like C#, JS, SQL, etc.
 - 🌱 I’m currently learning Front-end Web Development.
 
 
